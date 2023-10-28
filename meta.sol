@@ -2,8 +2,8 @@
 pragma solidity 0.8.18;
 
 contract MyToken {
-    string public token_name = "Sunrise";
-    string public token_symbol = "SR";
+    string public token_name = "Gopal";
+    string public token_symbol = "GK";
     uint public total_amt = 0;
 
     // mapping variable
